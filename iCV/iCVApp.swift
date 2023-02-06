@@ -11,7 +11,8 @@ import SwiftUI
 struct iCVApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            HomeView()
         }
     }
 }

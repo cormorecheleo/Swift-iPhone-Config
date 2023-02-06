@@ -11,6 +11,8 @@
 		5923C42F299127D20049F6C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C42E299127D20049F6C6 /* ContentView.swift */; };
 		5923C431299127D40049F6C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5923C430299127D40049F6C6 /* Assets.xcassets */; };
 		5923C434299127D40049F6C6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5923C433299127D40049F6C6 /* Preview Assets.xcassets */; };
+		5923C43B2991295C0049F6C6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C43A2991295C0049F6C6 /* HomeView.swift */; };
+		5923C443299151D50049F6C6 /* RegionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C442299151D50049F6C6 /* RegionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		5923C42E299127D20049F6C6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5923C430299127D40049F6C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5923C433299127D40049F6C6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5923C43A2991295C0049F6C6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		5923C442299151D50049F6C6 /* RegionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				5923C42E299127D20049F6C6 /* ContentView.swift */,
 				5923C430299127D40049F6C6 /* Assets.xcassets */,
 				5923C432299127D40049F6C6 /* Preview Content */,
+				5923C43A2991295C0049F6C6 /* HomeView.swift */,
+				5923C442299151D50049F6C6 /* RegionView.swift */,
 			);
 			path = iCV;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5923C43B2991295C0049F6C6 /* HomeView.swift in Sources */,
 				5923C42F299127D20049F6C6 /* ContentView.swift in Sources */,
+				5923C443299151D50049F6C6 /* RegionView.swift in Sources */,
 				5923C42D299127D20049F6C6 /* iCVApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
