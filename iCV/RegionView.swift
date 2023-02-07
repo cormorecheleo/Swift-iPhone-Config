@@ -18,7 +18,7 @@ struct RegionView: View {
                         .multilineTextAlignment(.center)
                     List{
                         Section{
-                            NavigationLink(destination: Text("Hello Login")){
+                            NavigationLink(destination: SkillsView()){
                                 Text("France")
                             }
                         }

@@ -13,6 +13,8 @@
 		5923C434299127D40049F6C6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5923C433299127D40049F6C6 /* Preview Assets.xcassets */; };
 		5923C43B2991295C0049F6C6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C43A2991295C0049F6C6 /* HomeView.swift */; };
 		5923C443299151D50049F6C6 /* RegionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C442299151D50049F6C6 /* RegionView.swift */; };
+		5923C4452991C1690049F6C6 /* SkillsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C4442991C1690049F6C6 /* SkillsView.swift */; };
+		5923C447299248340049F6C6 /* ExperienceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923C446299248340049F6C6 /* ExperienceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		5923C433299127D40049F6C6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5923C43A2991295C0049F6C6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		5923C442299151D50049F6C6 /* RegionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionView.swift; sourceTree = "<group>"; };
+		5923C4442991C1690049F6C6 /* SkillsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillsView.swift; sourceTree = "<group>"; };
+		5923C446299248340049F6C6 /* ExperienceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				5923C432299127D40049F6C6 /* Preview Content */,
 				5923C43A2991295C0049F6C6 /* HomeView.swift */,
 				5923C442299151D50049F6C6 /* RegionView.swift */,
+				5923C4442991C1690049F6C6 /* SkillsView.swift */,
+				5923C446299248340049F6C6 /* ExperienceView.swift */,
 			);
 			path = iCV;
 			sourceTree = "<group>";
@@ -143,7 +149,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5923C447299248340049F6C6 /* ExperienceView.swift in Sources */,
 				5923C43B2991295C0049F6C6 /* HomeView.swift in Sources */,
+				5923C4452991C1690049F6C6 /* SkillsView.swift in Sources */,
 				5923C42F299127D20049F6C6 /* ContentView.swift in Sources */,
 				5923C443299151D50049F6C6 /* RegionView.swift in Sources */,
 				5923C42D299127D20049F6C6 /* iCVApp.swift in Sources */,
